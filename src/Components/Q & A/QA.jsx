@@ -85,7 +85,7 @@ const QA = () => {
                     data-te-parent="#accordionExample">
                     <div class="py-4 px-5">
                         <strong>Purpose of <code>useEffect()</code></strong><br />
-                        When the site is rendered, <code>useEffect()</code> will be perform with it's inner Statement.
+                        When the site is rendered, <strong><code>useEffect()</code></strong> will be perform with it's inner Statement.
                     </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@ const QA = () => {
                     aria-labelledby="headingThree"
                     data-te-parent="#accordionExample">
                     <div class="py-4 px-5">
-                        <code>useState()</code> is React Hook that allows you to add state to a functional component
+                        <strong><code>useState()</code></strong> is React Hook that allows you to add state to a functional component
                     </div>
                 </div>
             </div>
