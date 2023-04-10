@@ -18,7 +18,7 @@ const BlogBody = () => {
     }, []);
 
     const markAsRead = (readTime) => {
-        console.log(readTime);
+        // console.log(readTime);
         setCountReadingTime(countReadingTime + readTime.readingTime);
     };
 
